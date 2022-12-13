@@ -7,6 +7,11 @@ Registration is required, details will be announced in time.
 - Place: **MPI Tübingen, Germany**
 - Who: **GUFI&friends**
 
+## Links
+- [Program](Program.md)
+- [Accomodation](Accomodation.md)
+- [GUFI](https://www.mr-gufi.de)
+
 ## Program
 A preview of the program can be seen [here](Program.md)
 
@@ -22,8 +27,8 @@ Germany
 ## Transport and Accomodation
 We recommend to arrive on the day before the event. Travelling to Tübingen from the next high-speed rail or airport will take more than one hour.
 All participants have to organize travel and accomodation themselves.
-Recommendations for hotels will soon be added [here](accomodation.md).
+Recommendations for hotels will soon be added [here](Accomodation.md).
 
 ## Registration Fees
-Participation will be free of charge for all invited members of GUFI&friends.
-Participants are expected to pay for their own accomodation and travel. While some food is provided during the day, the dinner/social event at the end of day 2 will have to be paid by those participants who wish to join.
+Participation will be free of charge for all invited members of `GUFI&friends`.
+Participants are expected to pay for their own accomodation and travel. While some food is provided during the day, the dinner/social event at the end of day 1 will have to be paid by those participants who wish to join.
