@@ -22,6 +22,8 @@ Max Planck Ring 11\
 72076 Tübingen\
 Germany
 
+Presentations will be held in Max Planck Ring 4 (MPI for Intelligent Systems). The exact location for each session will be marked in the [Program](Program.md).
+
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.05277729034424%2C48.53484425297649%2C9.06477212905884%2C48.53936590861174&amp;layer=mapnik&amp;marker=48.53710513127659%2C9.058774709701538" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.53711&amp;mlon=9.05877#map=18/48.53711/9.05877">View Larger Map</a></small>
 
 ## Transport and Accomodation

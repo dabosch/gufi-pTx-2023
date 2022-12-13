@@ -3,6 +3,8 @@
 
 This program is preliminary and subject to change!
 
+We welcome suggestions for possible topics and presentations. (Link)
+
 ### Day 1 (14.02.2023)
 
 |                |                             |
@@ -32,3 +34,23 @@ This program is preliminary and subject to change!
 | 15:00-15:30 | Coffee Break            |   |
 | 15:30-16:30 | Workshop session 2      |   |
 | 16:30-17:00 | Wrapping up             |   |
+
+
+## Suggested Sessions
+- Hands-on / Workshop sessions
+    - Safety
+    - Test your sequence at 9.4T
+    - 16Tx experience
+- Presentations, open for GUFI-“public”? With recordings?
+
+## Topics
+- Pulse Design
+- Self-created Toolboxes
+- Safety/VOPS/coil verification
+- Sequences
+    - Implementation
+    - Limitations
+    - Workarounds
+    - pulseq
+- pTx Beyond Siemens
+- Other Topics
