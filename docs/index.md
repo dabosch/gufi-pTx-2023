@@ -10,6 +10,7 @@ Registration is required, details will be announced in time.
 ## Links
 - [Program](Program.md)
 - [Accomodation](Accomodation.md)
+- [Travelling](Travelling.md)
 - <a href="https://www.mr-gufi.de" target="_blank">GUFI</a> (temporarily unavailable)
 
 ## Program
