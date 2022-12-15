@@ -32,5 +32,5 @@ All participants have to organize travel and accomodation themselves.
 Recommendations for hotels will soon be added [here](Accomodation.md).
 
 ## Registration Fees
-Registration for members of `GUFI&friends` is free of charge. Note that we cannot host more than 2-3 visitors from each site.
+Registration for members of `GUFI&friends` is free of charge and is limited to 2-3 people per site. 
 Participants are responsible for their own accommodation and travel costs. Some meals will be provided during the conference, but most meals are not included. The dinner/social event at the end of day 1 is optional and must be paid for by those who wish to attend.
