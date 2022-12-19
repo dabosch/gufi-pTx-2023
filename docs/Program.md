@@ -3,7 +3,7 @@
 
 This program is preliminary and subject to change!
 
-We welcome suggestions for possible topics and presentations. (Link)
+We welcome suggestions for possible topics and presentations. Please contact Dario Bosch if you want to share your knowledge!
 
 ### Day 1 (14.02.2023)
 

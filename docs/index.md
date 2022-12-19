@@ -11,7 +11,8 @@ Registration is required, details will be announced in time.
 - [Program](Program.md)
 - [Accomodation](Accomodation.md)
 - [Travelling](Travelling.md)
-- <a href="https://www.mr-gufi.de" target="_blank">GUFI</a> (temporarily unavailable)
+- [Registration](Registration.md)
+- <a href="https://www.mr-gufi.de" target="_blank">GUFI</a> (external link, temporarily unavailable)
 
 ## Program
 The program consists of two full days of presentations and hands-on sessions. While it is not yet finalized, a preview can be seen [here](Program.md)
