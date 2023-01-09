@@ -15,3 +15,5 @@ The nearest airport to Tübingen is Stuttgart (STR). After arrival, one option i
 ## By Car
 There is a parking lot next to Max Planck Ring 14, 72076 Tübingen.
 Please get in touch with us so we can get you a parking permit.
+
+![](assets/Plan_Campus.svg)
