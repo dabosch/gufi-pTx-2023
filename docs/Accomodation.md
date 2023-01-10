@@ -18,8 +18,8 @@ Tel. +49 (0)7071 1450070\
 ### Hotel Katharina Garni
 Herr Hans-Jörg Petruschka\
 Lessingweg 2 \
-72076 Tübingen\ 
-Tel. +49 (0)7071 96500\
+72076 Tübingen \
+Tel. +49 (0)7071 96500 \
 [https://www.hotel-katharina-garni.de/](https://www.hotel-katharina-garni.de/)
 
 ---

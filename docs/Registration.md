@@ -1,4 +1,6 @@
 # Registration
+[Back to main page](index.md)
+
 We're excited to announce that registration is now open!
 
 ## Key Facts

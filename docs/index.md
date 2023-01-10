@@ -2,6 +2,8 @@
 A meeting open for all members of extended GIFU who work on parallel transmission (pTx).
 Registration is required, details will be announced in time.
 
+**Registration will close January 27th!**
+
 ## Key Facts
 - Date:  **February 14-15, 2023**
 - Place: **MPI Tübingen, Germany**
