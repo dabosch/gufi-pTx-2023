@@ -28,7 +28,7 @@ Germany
 
 Presentations will be held in Max Planck Ring 4 (MPI for Intelligent Systems). The exact location for each session will be marked in the [Program](Program.md).
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.05277729034424%2C48.53484425297649%2C9.06477212905884%2C48.53936590861174&amp;layer=mapnik&amp;marker=48.53710513127659%2C9.058774709701538" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.53711&amp;mlon=9.05877#map=18/48.53711/9.05877">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.054925739765169%2C48.534677302736114%2C9.060923159122469%2C48.53693818849164&amp;layer=mapnik&amp;marker=48.53580775823459%2C9.057924449443817" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.53581&amp;mlon=9.05792#map=19/48.53581/9.05792&amp;layers=N">View Larger Map</a></small>
 
 ## Transport and Accomodation
 We recommend to arrive on the day before the event. Travelling to Tübingen from the next high-speed rail or airport will take more than one hour. Find more information on [Transportation here](Travelling.md).
