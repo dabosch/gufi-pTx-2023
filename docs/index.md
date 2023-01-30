@@ -2,7 +2,7 @@
 A meeting open for all members of extended GIFU who work on parallel transmission (pTx).
 Registration is required, details will be announced in time.
 
-**Registration will close January 27th!**
+**Registration is closed!** If you think your registration did not get recorded, please contact Dario Bosch via email!
 
 ## Key Facts
 - Date:  **February 14-15, 2023**
@@ -13,7 +13,7 @@ Registration is required, details will be announced in time.
 - [Program](Program.md)
 - [Accomodation](Accomodation.md)
 - [Travelling](Travelling.md)
-- [Registration](Registration.md)
+- Registration is closed!
 - <a href="https://www.mr-gufi.de" target="_blank">GUFI</a> (external link, temporarily unavailable)
 
 ## Program

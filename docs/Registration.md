@@ -1,7 +1,7 @@
 # Registration
 [Back to main page](index.md)
 
-We're excited to announce that registration is now open!
+Registration is closed!
 
 ## Key Facts
 - Date: February 14-15 2023
