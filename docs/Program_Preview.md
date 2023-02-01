@@ -32,7 +32,7 @@ This program is preliminary and subject to change!
 | 17:50-18:00 | Wrapping Up | TBA <br> MPI Tübingen |
 | 19:00-open end  | Dinner (self-paid)  | Restaurant "Neckarmüller" |
 
-## Day 2: 14.02.2023
+## Day 2: 15.02.2023
 
 | Day 2 | | 15.02.2023   |
 |-----------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|
