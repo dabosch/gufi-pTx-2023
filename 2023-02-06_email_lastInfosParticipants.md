@@ -4,6 +4,9 @@ Dear {{First Name}},
 
 It's just over one week until we meet at the gufi pTx workshop in Tübingen. Here is some information about the upcoming event.
 
+Location of the Workshop
+The majority of the workshop will be held in the Max Planck Institute for Intelligent Systems, Max Planck Ring 4, on the ground floor. The building is usually locked, so you'll need to wait for one of us to let you in. Please try to arrive on time.
+
 Program now online
 The program can be found at https://dabosch.github.io/gufi-pTx-2023/Program.html . If you are a presenter, please make sure your information is correct.
 
