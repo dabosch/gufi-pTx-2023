@@ -16,7 +16,7 @@ This program is preliminary and subject to change!
 | 11:20-12:00 | Site Presentations part 2 * | Attendees |
 | 12:00-12:20 | *Brief Survey of pTx Development Activities at the University of Glasgow: From Coils through to Clinical Application | Sydney Williams <br> University of Glasgow |
 | 12:20-12:40 | *Challenges and Solutions for UHF body imaging using pTx | Sebastian Schmitter <br> PTB Berlin |
-| **12:40-13:40** | **Lunch** | Max Planck Canteen |
+| **12:40-13:40** | **Lunch** |  |
 | 13:40-14:20 | Lab Tours | MPI Tübingen |
 |             | Coil Lab | |
 |             | ULF lab | |
