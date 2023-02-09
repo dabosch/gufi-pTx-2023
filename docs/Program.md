@@ -48,10 +48,10 @@ This program is preliminary and subject to change!
 | **12:50-13:40** | **Lunch** | |
 | 13:40-14:00 | *SAR safety workflow in Tübingen | Jonas Bause <br> MPI Tübingen |
 | 14:00-14:20 | *VOP compression | Stephan Orzada <br> DKFZ Heidelberg |
-| 14:20-15:00 | Discussion: SAR safety | Moderator: **TBA** |
+| 14:20-15:00 | Discussion: SAR safety | Moderator: <br> Jonas Bause |
 | **15:00-15:30** | **Coffee Break**  | |
 | 15:30-16:10 | Discussion: Roadblockers for pTx applications in clinical environments. What can we do and what is missing? | Moderator: **TBA** |
-| 16:10-16:50 | Discussion: How to continue from this? How do we communicate? How do we share code? Future Workshops? | Moderator: **TBA** |
+| 16:10-16:50 | Discussion: How to continue from this? How do we communicate? How do we share code? Future Workshops? | Moderator: <br> Dario Bosch |
 | 16:50-17:00 | Famous last words | Klaus Scheffler <br> MPI Tübingen |
 
 ## Explanations:
