@@ -11,9 +11,9 @@ This program is preliminary and subject to change!
 | 09:30-09:40 | *Welcome, Introduction | Dario Bosch <br> MPI Tübingen |
 | 09:40-10:00 | *Research at MPI for Biological Cybernetics | Klaus Scheffler <br> MPI Tübingen |
 | 10:00-10:20 | Update from Siemens | Robin Heidemann <br> Siemens Healthineers |
-| 10:20-11:00 | Site Presentations part 1 | Attendees |
+| 10:20-11:00 | *Site Presentations part 1 | Attendees |
 | **11:00-11:20** | **Coffee Break** | |
-| 11:20-12:00 | Site Presentations part 2 * | Attendees |
+| 11:20-12:00 | *Site Presentations part 2 | Attendees |
 | 12:00-12:20 | *Brief Survey of pTx Development Activities at the University of Glasgow: From Coils through to Clinical Application | Sydney Williams <br> University of Glasgow |
 | 12:20-12:40 | *Challenges and Solutions for UHF body imaging using pTx | Sebastian Schmitter <br> PTB Berlin |
 | **12:40-13:40** | **Lunch** |  |
