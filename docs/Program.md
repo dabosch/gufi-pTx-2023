@@ -25,7 +25,7 @@ This program is preliminary and subject to change!
 | 14:40-15:00 | *kt-Points pulses for improved 0.5 mm quantitative multi-parameter mapping | Kerrin Pine <br> MPI Leipzig |
 | 15:00-15:20 | *Effects of morphometry and tissue segmentation on personalised pTx SAR | Aaron Hess <br> University of Oxford | 
 | **15:20-15:50** | **Coffee Break** | |
-| 15:50-16:30 | Discussion: How stable are your systems? What are your workarounds? | Moderator: **TBA** |
+| 15:50-16:30 | Discussion: How stable are your systems? What are your workarounds? | Moderator: <br> Robert Trampel |
 | 16:30-16:50 | *TIAMO revisited: a software-based solution for homogeneous body imaging at 7T  | Jennifer Schulz <br> Erwin L. Hahn Institute (UDE) <br> Radboud UMC |
 | 16:50-17:10 | *Towards UHF body imaging in the human torso with calibration-free parallel transmission | Christoph Aigner <br> PTB Berlin |
 | 17:10-17:50 | Discussion: Self-created pTx toolboxes. How can we share, cooperate and exchange? | Moderator: <br> Dario Bosch |
