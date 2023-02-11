@@ -1,8 +1,8 @@
 # Program
 [Back to main page](index.md)
 
-{:.bg-warning}
-Presenters: please send your presentations to Dario Bosch in advance!
+> **Note**
+> Presenters: please send your presentations to Dario Bosch in advance!
 
 This program is preliminary and subject to change.
 
