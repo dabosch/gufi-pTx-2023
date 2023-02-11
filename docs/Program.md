@@ -1,8 +1,7 @@
 # Program
 [Back to main page](index.md)
 
-> **Note**
-> Presenters: please send your presentations to Dario Bosch in advance!
+> **Presenters: please send your presentations to Dario Bosch in advance!**
 
 This program is preliminary and subject to change.
 
