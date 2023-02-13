@@ -32,7 +32,7 @@ This program is preliminary and subject to change.
 | 16:50-17:10 | *Towards UHF body imaging in the human torso with calibration-free parallel transmission | Christoph Aigner <br> PTB Berlin |
 | 17:10-17:50 | Discussion: Self-created pTx toolboxes. How can we share, cooperate and exchange? | Moderator: <br> Dario Bosch |
 | 17:50-18:00 | Wrapping Up | TBA <br> MPI Tübingen |
-| 19:00-open end  | Dinner (self-paid)  | Restaurant "Neckarmüller" |
+| 19:00-open end  | Dinner (self-paid)  | [Restaurant "Neckarmüller"](Dinner.md) |
 
 ## Day 2: 15.02.2023
 
