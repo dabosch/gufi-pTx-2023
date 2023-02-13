@@ -46,7 +46,7 @@ This program is preliminary and subject to change.
 | 11:10-11:30 | *our pTx workflow in Tübingen | Dario Bosch <br> MPI Tübingen |
 | 11:30-11:50 | *Development of a pTX pulse design library in Matlab and Python | Vincent Gras <br> CEA |
 | 11:50-12:10 | *A pTx library using external pulses for PASTEUR package: main features and workarounds | Franck Mauconduit <br> CEA Neurospin  |
-| 12:10-12:50 | Discussion: Sequence Programming: Implementation, Limitations and Workarounds. How about pulseq-pTx? | Moderator: **TBA** |
+| 12:10-12:50 | Discussion: Sequence Programming: Implementation, Limitations and Workarounds. How about pulseq-pTx? | Moderator: <br> Franck Mauconduit |
 | **12:50-13:40** | **Lunch** | |
 | 13:40-14:00 | *SAR safety workflow in Tübingen | Jonas Bause <br> MPI Tübingen |
 | 14:00-14:20 | *VOP compression | Stephan Orzada <br> DKFZ Heidelberg |
