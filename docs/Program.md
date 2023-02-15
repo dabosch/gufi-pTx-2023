@@ -43,7 +43,7 @@ This program is preliminary and subject to change.
 | 09:30-09:50 | *online tailoring of pTx Pulses | Jürgen Herrler <br> Siemens Healthineers |
 | 09:50-10:50 | Hands-On: Workflow to enable UHF body imaging: B1+ mapping, ROI selection and design of static/dynamic pTx pulses | Christoph Aigner <br> PTB Berlin |
 | **10:50-11:10** | **Coffee Break** | |
-| 11:10-11:30 | *our pTx workflow in Tübingen | Dario Bosch <br> MPI Tübingen |
+| 11:10-11:30 | *pTx workflow and problems in Tübingen | Dario Bosch <br> MPI Tübingen |
 | 11:30-11:50 | *Development of a pTX pulse design library in Matlab and Python | Vincent Gras <br> CEA |
 | 11:50-12:10 | *A pTx library using external pulses for PASTEUR package: main features and workarounds | Franck Mauconduit <br> CEA Neurospin  |
 | 12:10-12:50 | Discussion: Sequence Programming: Implementation, Limitations and Workarounds. How about pulseq-pTx? | Moderator: **TBA** |
