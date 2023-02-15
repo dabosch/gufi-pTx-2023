@@ -32,7 +32,7 @@ This program is preliminary and subject to change.
 | 16:50-17:10 | *Towards UHF body imaging in the human torso with calibration-free parallel transmission | Christoph Aigner <br> PTB Berlin |
 | 17:10-17:50 | Discussion: Self-created pTx toolboxes. How can we share, cooperate and exchange? | Moderator: <br> Dario Bosch |
 | 17:50-18:00 | Wrapping Up | TBA <br> MPI Tübingen |
-| 19:00-open end  | Dinner (self-paid)  | Restaurant "Neckarmüller" |
+| 19:00-open end  | Dinner (self-paid)  | [Restaurant "Neckarmüller"](Dinner.md) |
 
 ## Day 2: 15.02.2023
 
@@ -46,7 +46,7 @@ This program is preliminary and subject to change.
 | 11:10-11:30 | *pTx workflow and problems in Tübingen | Dario Bosch <br> MPI Tübingen |
 | 11:30-11:50 | *Development of a pTX pulse design library in Matlab and Python | Vincent Gras <br> CEA |
 | 11:50-12:10 | *A pTx library using external pulses for PASTEUR package: main features and workarounds | Franck Mauconduit <br> CEA Neurospin  |
-| 12:10-12:50 | Discussion: Sequence Programming: Implementation, Limitations and Workarounds. How about pulseq-pTx? | Moderator: **TBA** |
+| 12:10-12:50 | Discussion: Sequence Programming: Implementation, Limitations and Workarounds. How about pulseq-pTx? | Moderator: <br> Franck Mauconduit |
 | **12:50-13:40** | **Lunch** | |
 | 13:40-14:00 | *SAR safety workflow in Tübingen | Jonas Bause <br> MPI Tübingen |
 | 14:00-14:20 | *VOP compression | Stephan Orzada <br> DKFZ Heidelberg |
